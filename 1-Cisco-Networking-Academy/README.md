@@ -30,11 +30,11 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
  ### 📁 [4 - Packet Tracer](./PACKET-TRACER/)
   Arquivos de simulação e topologias de rede, roteamento, comutação (switching), VLANs e configurações de segurança em dispositivos Cisco.
 
-  Topologias criadas com Cisco Packet Tracer, focadas em:
-
-Configuração de redes LAN e WAN
-Protocolos de roteamento
-Segurança de dispositivos
+  Topologias criadas com Cisco Packet Tracer, focadas em:   
+   
+* Configuração de redes LAN e WAN    
+* Protocolos de roteamento   
+* Segurança de dispositivos    
 
 <br/>
 
