@@ -11,7 +11,7 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
 <br/>
 
-<div style="height: 1px; background-color: #58a6ff; margin: 20px 0;"></div>
+---
 
  ### 📁 [2 - EC-Council Ethical Hacker](./5-EC-COUNCIL-ETHICAL-HACKER/)
   Conceitos de testes de invasão (pentest), identificação de vulnerabilidades, superfície de ataque e fundamentos do hacking ético.
