@@ -7,7 +7,7 @@ Documentação e relatórios técnicos das atividades laboratoriais realizadas n
 
 ## 📚 Módulos Laboratoriais
 
-* ### 🔐 [M21 - Criptografia](./M21-Criptografia/)
+* ### 🔐 [M21 - Criptografia](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/tree/main/1-Cisco-Networking-Academy/CCNA%20CyberOps%20/Criptografia)
   Cifragem de textos, funções de resumo criptográfico (hashing), criptografia simétrica e assimétrica, certificados digitais X.509 e análise comparativa de tráfego Telnet/SSH via Wireshark.
 
 ---
