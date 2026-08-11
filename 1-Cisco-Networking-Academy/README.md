@@ -9,6 +9,13 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
  ### 📁 [1 - CCNA - CyberOps Associate](./4-CCNA-CYBEROPS-ASSOCIATE/)
   Operações do Centro de Operações de Segurança (SOC), monitoramento de segurança de rede, análise de alertas, criptografia e análise forense digital.
 
+Foco nos principais laboratórios como:
+
+* **Criptografia**
+* **Dados de Segurança** 
+* **Avaliação de Alertas** 
+* **Como Trabalhar com Dados de Segurança** 
+
 <br/>
 
 ---
