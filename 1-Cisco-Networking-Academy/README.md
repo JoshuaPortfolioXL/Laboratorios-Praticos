@@ -32,9 +32,9 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
   Topologias criadas com Cisco Packet Tracer, focadas em:   
    
-* **Configuração de redes LAN e WAN**    
-* **Protocolos de roteamento**   (RIP, OSPF, EIGRP)
-* **Segurança de Dispositivos** (Port Security, ACLs, SSH)    
+* **Configuração de redes LAN e WAN**
+* **Protocolos de roteamento** (RIP, OSPF, EIGRP)
+* **Segurança de Dispositivos** (Port Security, ACLs, SSH)   
 
 <br/>
 
