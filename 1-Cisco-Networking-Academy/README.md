@@ -2,9 +2,6 @@
 
 Documentação técnica e registros de laboratórios práticos desenvolvidos ao longo dos programas de formação em Cibersegurança e Redes da Cisco Networking Academy.
 
-<hr style="border: none; border-top: 1px dashed #58a6ff; margin: 20px 0;" />
-
-<br/>
 
 ## 📚 Cursos e Especializações
 
