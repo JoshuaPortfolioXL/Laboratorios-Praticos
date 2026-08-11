@@ -6,7 +6,7 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
 ## 📚 Cursos e Especializações
 
- * ### 📁 [1 - CCNA - CyberOps Associate](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/blob/main/1-Cisco-Networking-Academy/CCNA%20CyberOps/README.md)
+ * 📁 [1 - CCNA - CyberOps Associate](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/tree/main/1-Cisco-Networking-Academy/CCNA%20CyberOps)
   Operações do Centro de Operações de Segurança (SOC), monitoramento de segurança de rede, análise de alertas, criptografia e análise forense digital.
 
 Foco nos principais laboratórios como:
