@@ -1,5 +1,5 @@
 
-# 🛡️ Cisco CCNA CyberOps Associate — Módulos Práticos
+# 🛡️ Cisco CyberOps Associate CCNA — Módulos Práticos
 
 Documentação e relatórios técnicos das atividades laboratoriais realizadas nos módulos especializados de operações de Centro de Operações de Segurança (SOC).
 
