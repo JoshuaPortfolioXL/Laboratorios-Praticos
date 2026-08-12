@@ -3,6 +3,12 @@
 
 Documentação e relatórios técnicos das atividades laboratoriais realizadas nos módulos especializados de operações de Centro de Operações de Segurança (SOC).
 
+<br/>
+
+> 💡 *Dica de navegação: Clique no nome de qualquer módulo acima para acessar a lista detalhada e os relatórios em PDF de cada laboratório.*
+
+<br/>
+
 ---
 
 ## 📚 Módulos Laboratoriais
@@ -32,4 +38,4 @@ Documentação e relatórios técnicos das atividades laboratoriais realizadas n
 
 ---
 
-> 💡 *Dica de navegação: Clique no nome de qualquer módulo acima para acessar a lista detalhada e os relatórios em PDF de cada laboratório.*
+
