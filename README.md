@@ -3,7 +3,7 @@ Documentação de laboratórios práticos realizados durante minha formação ac
 
 <br/>
 
-> 💡 *Dica de navegação: Clique em qualquer um dos links acima para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
+> 💡 *Dica de navegação: Clique em qualquer um dos links abaixo para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
 
  <br/>
 
