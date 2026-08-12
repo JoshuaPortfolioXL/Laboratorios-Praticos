@@ -5,7 +5,7 @@ Documentação e relatórios técnicos das atividades laboratoriais realizadas n
 
 <br/>
 
-> 💡 *Dica de navegação: Clique no nome de qualquer módulo acima para acessar a lista detalhada e os relatórios em PDF de cada laboratório.*
+> 💡 *Dica de navegação: Clique no nome de qualquer módulo abaixo para acessar a lista detalhada e os relatórios em PDF de cada laboratório.*
 
 <br/>
 
