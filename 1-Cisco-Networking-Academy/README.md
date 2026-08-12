@@ -4,6 +4,10 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
 <br/>
 
+> 💡 *Dica de navegação: Clique em qualquer um dos links acima para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
+
+<br/>
+
 ## 📚 Cursos e Especializações
 
 ### 📁 [1 - CCNA - CyberOps Associate](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/tree/main/1-Cisco-Networking-Academy/CCNA%20CyberOps%20)
@@ -75,4 +79,3 @@ Sendo alguns dos destaques, módulos como:
 
 ---
 
-> 💡 *Dica de navegação: Clique em qualquer um dos links acima para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
