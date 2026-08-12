@@ -4,7 +4,7 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
 <br/>
 
-> 💡 *Dica de navegação: Clique em qualquer um dos links acima para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
+> 💡 *Dica de navegação: Clique em qualquer um dos links abaixo para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
 
 <br/>
 
