@@ -22,6 +22,13 @@ Foco nos principais laboratórios como:
 
  ### 📁 [2 - EC-Council Ethical Hacker](./5-EC-COUNCIL-ETHICAL-HACKER/)
   Conceitos de testes de invasão (pentest), identificação de vulnerabilidades, superfície de ataque e fundamentos do hacking ético.
+   
+Sendo alguns dos destaques, módulos como:
+  
+  * **Coleta de Informação e Varredura de Redes** (Footprinting & Scanning)
+  * **Ataques de Engenharia Social** 
+  * **Exploração de Redes e Sistemas**
+  * **Vulnerabilidades em Aplicações Web**
 
 <br/>
 
