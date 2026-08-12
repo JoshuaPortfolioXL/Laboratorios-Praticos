@@ -1,6 +1,13 @@
 # Laboratórios Práticos
 Documentação de laboratórios práticos realizados durante minha formação acadêmica.
 
+<br/>
+
+> 💡 *Dica de navegação: Clique em qualquer um dos links acima para explorar os diretórios e visualizar os relatórios e evidências dos laboratórios.*
+
+ <br/>
+
+ 
 ### ➡️ Selecione uma instituição abaixo:
     
 ---
