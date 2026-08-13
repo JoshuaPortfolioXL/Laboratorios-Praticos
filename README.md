@@ -17,12 +17,16 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 - [Acessar material](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/tree/main/1-Cisco-Networking-Academy)
 
 ---
-   
+
+   ### 🏫 Faculdade Anhanguera
+- [Acessar laboratórios](./Anhanguera/)
+
+---
+
 ### 🎓 Coursera
 - [Acessar laboratórios](./Coursera/)
 
-### 🏫 Anhanguera Institucional
-- [Acessar laboratórios](./Anhanguera/)
+---
 
 ### 💻 CodeIot
 - [Acessar laboratórios](./CodeIot/)
