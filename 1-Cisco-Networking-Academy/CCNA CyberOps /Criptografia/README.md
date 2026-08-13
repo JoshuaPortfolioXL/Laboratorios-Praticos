@@ -6,7 +6,7 @@ Documentação e relatórios práticos dos laboratórios do módulo de Criptogra
 
 ## 📑 Laboratórios e Atividades Práticas
 
-* 📄 **[Cifrando Textos](./21.0.3%20-%20CIFRANDO%20TEXTOS.pdf)**
+* 📄 **[Cifrando Textos](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/blob/main/1-Cisco-Networking-Academy/CCNA%20CyberOps%20/Criptografia/Cifrando%20textos/README.md)**
   * Aplicação prática de técnicas de cifragem básica e manipulação de texto claro vs texto cifrado.
 
 <br/>
