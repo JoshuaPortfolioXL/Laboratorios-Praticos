@@ -28,7 +28,7 @@ Documentação técnica e registros de laboratórios práticos desenvolvidos ao 
 
 ---
 
-### 💻 CodeIot
+### 💻 CodeIOT
 - [Acessar laboratórios](./CodeIot/)
 
 ### 📚 Duolingo
