@@ -11,7 +11,7 @@ Documentação e relatórios práticos dos laboratórios do módulo de Criptogra
 
 <br/>
 
-* 📄 **[Calculando Hashes]()**
+* 📄 **[Calculando Hashes](https://github.com/JoshuaPortfolioXL/Laboratorios-Praticos/tree/main/1-Cisco-Networking-Academy/CCNA%20CyberOps%20/Criptografia/Calculando%20hashes)**
   * Verificação de integridade de arquivos utilizando funções de resumo criptográfico (MD5, SHA-256).
 
 <br/>
