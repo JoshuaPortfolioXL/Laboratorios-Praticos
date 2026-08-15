@@ -11,7 +11,7 @@ Documentação e relatórios práticos dos laboratórios do módulo de Criptogra
 
 <br/>
 
-* 📄 **[Calculando Hashes](./21.1.6%20-%20CALCULANDO%20HASHES.pdf)**
+* 📄 **[Calculando Hashes]()**
   * Verificação de integridade de arquivos utilizando funções de resumo criptográfico (MD5, SHA-256).
 
 <br/>
